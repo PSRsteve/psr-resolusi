@@ -3,7 +3,11 @@ RENCANA KONTEN PSR
 - JAVASCRIPT
 * es6
 * framework javasript
+< vue
+< react
 - struktur data dasar
 - PHP FRAMEWORKS
+< laravel
 - INTERVIEW
 - VLOGS
+- PYTHON
