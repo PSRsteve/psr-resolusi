@@ -4,6 +4,7 @@ RENCANA KONTEN PSR
 * es6
 * framework javasript
 < vue
+< react
 - struktur data dasar
 - PHP FRAMEWORKS
 < laravel
